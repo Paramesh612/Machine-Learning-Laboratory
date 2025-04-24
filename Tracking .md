@@ -1,15 +1,20 @@
 ## Done:
+
 - Numpy & Pandas
 - Linear Regression
 - Perceptron & MLP
 - Naive Bayes Classifier
-
-## Remaining:
-- Back Propagation
-- Decision Tree
 - K-Means & RBF
-- LDA
 - PCA
 - GA
-- Knapsack GA & SVM
+- SVM (Look at kernel types & Displaying Margin)
+- Back Propagation
+
+## Remaining:
+
+- Decision Tree
 - SOM
+<!-- ##### Inbuilt Function: -->
+- LDA
+
+
